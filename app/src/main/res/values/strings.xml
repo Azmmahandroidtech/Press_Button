@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Press Button</string>
+
+
+
+    <string name="text_view">Press a Button</string>
+
+
+    <string name="button1">Button 1</string>
+    <string name="button2">Button 2</string>
+    <string name="button3">Button 3</string>
+    <string name="abutton4">Button 4</string>
+    <string name="abutton5">Button 5</string>
+
+
+
+
+
+</resources>
